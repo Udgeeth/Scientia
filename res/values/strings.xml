@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scientia</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">IQ Quiz</string>
+    <string name="title_section3">Logical Reasoning Quiz</string>
+    <string name="title_section4">Aptitude Quiz</string><string name="title_section5">Verbal Reasoning Quiz</string><string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Submit</string>
+    <string name="action_settings">Settings</string>
+    
+    
+
+</resources>
